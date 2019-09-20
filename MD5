@@ -1,6 +1,6 @@
-e72763c2444f6edfbc227b4f1ab0b8ba *DESCRIPTION
-f9eb397c681eeea90a13ad24f2299166 *NAMESPACE
-7d53f17889b02544edfebc5389a5517c *R/RcppExports.R
+43b27bf8da68715203eef357f3f3e50d *DESCRIPTION
+358977b936128b554fbb95e0acfe5f44 *NAMESPACE
+b259cc679e120e8f056b05c9fe4e84ce *R/RcppExports.R
 1b48a81b678b8705b7f04a16caf396cd *R/adjacency.R
 43e13fed7463947fa61741983053e690 *R/hits.R
 1e064a906d5e2f0303a5dfbfabaa3c0b *R/mksib.R
@@ -8,14 +8,12 @@ bce955f2a3e420dd6cb2652235819a4a *R/networkR.R
 3a5ba5d9acc5fca077e4adf30a505cfb *R/trio_consistency.R
 b65277ff633ca048cd3649dac76bd653 *man/adjacency.Rd
 dc3d335a1861de9e4516e8049da7f745 *man/hits.Rd
-64cb11941d83583931ae71c23b0ac256 *man/kinship.Rd
 6295ff28c16bf233c55c72afae84a228 *man/make_family_id.Rd
 627866ce7bac48d9cc9b6668b459cfaf *man/mksib.Rd
 cef63be285b7d7a483fcb0ffce483ef3 *man/networkR.Rd
 31820feea10169bfb9235f6e8e1cbec8 *man/validate_trio_consistency.Rd
-55f50eb7b6db6601887dd22ed6ead1da *src/RcppExports.cpp
-e053686655d1f7873ee4e49ce8879751 *src/cluster_fam.cpp
-3249d9e1fb1936b307196401bce9d912 *src/kinship_fam.cpp
+4685c3e9e861c87897e707ad7527ef4c *src/RcppExports.cpp
+9e8079ed00c866be053c625ec0052b6a *src/cluster_fam.cpp
 4a042f581590e1488c682072e3275d8b *tests/testthat.R
 8e15276b453924c3702f89fc45098f21 *tests/testthat/testhits.R
 5cec281795ea8452a51cbea55d0109dc *tests/testthat/testtrios.R

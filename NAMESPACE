@@ -2,7 +2,6 @@
 
 export(adjacency)
 export(hits)
-export(kinship)
 export(make_family_id)
 export(mksib)
 export(validate_trio_consistency)
